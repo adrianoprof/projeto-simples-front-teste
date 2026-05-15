@@ -1,5 +1,7 @@
 {
-  "dependencies": {
-    "cors": "^2.8.6"
+  "name":"projeto-simples-front",
+  "version":"1.0.0",
+  "scripts": {
+    "build":"echo \"projeto front estatico - sem etapa de build obrigatoria\""
   }
 }
